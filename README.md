@@ -2,4 +2,6 @@
 
 ## Project Summary
 
-This is just some text
+- This project is supposed to be a dummy project just to showcase my amazing git skills!
+
+    
